@@ -1,1 +1,49 @@
-ggggg
+Have I designed, built, or fixed bugs in web applications to meet stakeholders' needs? Can I provide examples? 
+yes i have, not much of stake holder needs but in my own code
+
+How have I ensured the performance, quality, and responsiveness of applications in past projects?
+i will do a lot of testing so checking for bugs, making sure funtionality is correct 
+
+
+How have I interfaced with stakeholders to gather project requirements? Can I provide examples of successful communications? 
+
+military has helped with my coomunication skills
+
+Can I describe a situation where I collaborated and coordinated with colleagues on various solutions and problems?
+
+i was previusly going to another coding bootcamp before the one i was going to now and would always check in with my group, made sure to communicate throughly
+
+Do I have experience designing and building applications for the iOS/Android platforms?
+
+i do not but im willing to learn for this role 
+
+Can I provide examples of how I've analyzed and redesigned processes to minimize inefficiencies?
+my chatgpt project was suppose to be a mma betting app but turned it into a preditcion app due to how large this project was going to be and to do it in so little time
+
+
+Have I planned and executed sprint planning and review sessions? What was the outcome?
+only sprint planning i have done was at the last two weeks of my coding bootcamp
+
+
+
+
+
+
+
+Do I hold a Bachelor of Science degree in Computer Engineering, or can I obtain a required certification within 180 days of performance start?
+ i have a certificate from carolina code school, its a coding bootcamp but with 7-8 months of coding experince 
+
+Can I discuss my 2 years of DoD Aviation or relevant experience?
+yes so ive had my clearnce since 2018 and its currently still in good standing
+
+How do I manage multiple work streams simultaneously?
+i track it via notepad or calender 
+
+Can I describe my problem-solving process and give an example of identifying and resolving software issues/bugs?
+yes i can, very clear
+Am I proficient in code versioning tools such as GIT? Can I provide examples?
+yes 
+
+
+Do I have experience with SQL/NoSQL databases, Agile methodologies, Kubernetes or Openshift, Docker, software package managers, ES6+ JavaScript/typescript, functional programming concepts, Linux OS, virtual machines, REST APIs, issue tracking software, Rust, or XML/XSLT?  i have some experince with SQL databases, ive used postgres and like Supabase, some typescript and i do know javscript and react
+ 
